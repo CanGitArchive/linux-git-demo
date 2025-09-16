@@ -1,0 +1,9 @@
+# OS/editor
+.DS_Store
+*.swp
+
+# Python venvs, builds
+venv/
+build/
+dist/
+__pycache__/
