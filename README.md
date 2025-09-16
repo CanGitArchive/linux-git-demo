@@ -16,3 +16,5 @@ tmux new -s dev         # start a session (Ctrl-b d to detach)
 Feature branch: 01-linux-setup
 PR -> squash & merge to main
 
+
+![tmux demo](images/tmux-demo.png)
