@@ -1,7 +1,8 @@
 # OS/editor
 .DS_Store
 *.swp
-# Python venvs, build
+
+# Python venvs, builds
 venv/
 build/
 dist/
