@@ -11,8 +11,8 @@ Used dotfiles, tmux split panel, SSH secured connection to GitHub, branching & P
 
 ## How to run
 ```bash
-tmux new -s dev         # start a session (Ctrl-b d to detach)
-./scripts/hello.sh      # run the demo
+tmux new -s dev         
+./scripts/hello.sh      
 
 Feature branch: 01-linux-setup
 PR -> squash & merge to main
