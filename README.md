@@ -1,11 +1,12 @@
-# Linux + Git (Core) — Module 1
+# Linux + Git (Core) — Simple Code
 
-Baseline Linux + Git fluency: dotfiles, tmux use, SSH to GitHub, clean branching & PR.
+Linux + Git
+Used dotfiles, tmux split panel, SSH secured connection to GitHub, branching & PR.
 
-## What’s included (proof)
+## Commands to use
 - `~/.tmux.conf` (mouse, history, vi-keys)
-- `scripts/hello.sh` (simple system info demo)
-- `.gitignore`
+- `scripts/hello.sh` (system info get)
+- `cad .gitignore`
 - This README
 
 ## How to run
