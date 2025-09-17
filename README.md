@@ -13,8 +13,7 @@
 tmux new -s dev         # start a tmux session (Ctrl-b then d to detach)
 ./scripts/hello.sh      # run the demo
 
-Git workflow used
-
+tmux demo
 Feature branch via git switch -c
 
 Commit locally with git commit
@@ -25,6 +24,5 @@ Open PR (GitHub UI or gh pr create) and merge into main
 
 Proof artifacts
 
-Closed PRs:https://github.com/CanGitArchive/linux-git-demo/pull/5 https://github.com/CanGitArchive/linux-git-demo/pull/6
-Screenshot:
-'/home/ratchet/Projects/linux-git/linux-git-demo/images/tmux-demo.png' 
+Closed PRs: #5, #6Screenshot:
+![tmux demo](images/tmux-demo.png)
