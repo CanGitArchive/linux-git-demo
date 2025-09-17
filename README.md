@@ -25,6 +25,6 @@ Open PR (GitHub UI or gh pr create) and merge into main
 
 Proof artifacts
 
-Closed PRs: #FILL_ME, #FILL_ME <!-- paste your real PR links or numbers -->
-
-Screenshot: images/tmux-demo.png
+Closed PRs:https://github.com/CanGitArchive/linux-git-demo/pull/5 https://github.com/CanGitArchive/linux-git-demo/pull/6
+Screenshot:
+'/home/ratchet/Projects/linux-git/linux-git-demo/images/tmux-demo.png' 
