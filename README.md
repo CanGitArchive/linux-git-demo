@@ -27,4 +27,5 @@ Proof artifacts
 Closed PRs: [#5](https://github.com/CanGitArchive/linux-git-demo/pull/5), [#6](https://github.com/CanGitArchive/linux-git-demo/pull/6)
 
 Screenshot:
+
 ![tmux demo](images/tmux-demo.png)
