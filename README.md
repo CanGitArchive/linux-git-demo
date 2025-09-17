@@ -25,7 +25,7 @@ tmux new -s dev         # start a tmux session (Ctrl-b then d to detach)
 
 * Open PR (GitHub UI or `gh pr create`) and merge
 
-# Proof artifacts
+# Artifacts
 
 Closed PRs: [#5](https://github.com/CanGitArchive/linux-git-demo/pull/5), [#6](https://github.com/CanGitArchive/linux-git-demo/pull/6)
 
