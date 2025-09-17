@@ -12,7 +12,7 @@
 ```bash
 tmux new -s dev         # start a tmux session (Ctrl-b then d to detach)
 ./scripts/hello.sh      # run the demo
-
+```
 tmux demo
 Feature branch via git switch -c
 
