@@ -1,6 +1,6 @@
-# Linux + Git (Core) — Proof Pack
+# Linux + Git (Core)
 
-**Goal:** Prove baseline Linux + Git fluency (SSH, branches, PRs), plus tmux use.
+Baseline Linux + Git fluency (SSH, branches, PRs), plus tmux use.
 
 ## What’s included
 - `scripts/hello.sh` (simple system info script)
@@ -11,4 +11,4 @@
 ```bash
 tmux new -s dev         # start a tmux session (Ctrl-b d to detach)
 ./scripts/hello.sh      # run the demo
-
+```

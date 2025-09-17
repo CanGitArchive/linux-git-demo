@@ -1,0 +1,1 @@
+- CLI: command line; SSH: secure login; PR: review request
