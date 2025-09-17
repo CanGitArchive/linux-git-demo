@@ -31,4 +31,4 @@ Closed PRs: [#5](https://github.com/CanGitArchive/linux-git-demo/pull/5), [#6](h
 
 Screenshot:
 
-![tmux demo](images/tmux-demo.png)
+![tmux demo](images/tmux-test2.png)
