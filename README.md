@@ -1,20 +1,14 @@
-# Linux + Git (Core) — Module 1
+# Linux + Git (Core) — Proof Pack
 
-Baseline Linux + Git fluency: dotfiles, tmux use, SSH to GitHub, clean branching & PR.
+**Goal:** Prove baseline Linux + Git fluency (SSH, branches, PRs), plus tmux use.
 
-## What’s included (proof)
-- `~/.tmux.conf` (mouse, history, vi-keys)
-- `scripts/hello.sh` (simple system info demo)
-- `.gitignore`
-- This README
+## What’s included
+- `scripts/hello.sh` (simple system info script)
+- `.gitignore` (ignore common noise)
+- This README (with demo + proof list)
 
 ## How to run
 ```bash
-tmux new -s dev         # start a session (Ctrl-b d to detach)
+tmux new -s dev         # start a tmux session (Ctrl-b d to detach)
 ./scripts/hello.sh      # run the demo
 
-Feature branch: 01-linux-setup
-PR -> squash & merge to main
-
-
-![tmux demo](images/tmux-demo.png)
