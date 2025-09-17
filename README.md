@@ -1,14 +1,31 @@
-# Linux + Git (Core)
+# Linux + Git (Core) — Proof Pack
 
-Baseline Linux + Git fluency (SSH, branches, PRs), plus tmux use.
+**Goal:** Prove baseline Linux + Git fluency (SSH, branches, PRs) and tmux use.
 
 ## What’s included
-- `scripts/hello.sh` (simple system info script)
-- `.gitignore` (ignore common noise)
-- This README (with demo + proof list)
+- `scripts/hello.sh` — simple system info script
+- `.gitignore` — ignores common noise
+- `images/tmux-demo.png` — tmux run screenshot
+- This README
 
 ## How to run
 ```bash
-tmux new -s dev         # start a tmux session (Ctrl-b d to detach)
+tmux new -s dev         # start a tmux session (Ctrl-b then d to detach)
 ./scripts/hello.sh      # run the demo
-```
+
+tmux demo
+Git workflow used
+
+Feature branch via git switch -c
+
+Commit locally with git commit
+
+Publish with git push -u origin <branch>
+
+Open PR (GitHub UI or gh pr create) and merge into main
+
+Proof artifacts
+
+Closed PRs:
+Screenshot:
+images/tmux-demo.png
