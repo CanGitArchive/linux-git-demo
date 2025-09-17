@@ -13,7 +13,6 @@
 tmux new -s dev         # start a tmux session (Ctrl-b then d to detach)
 ./scripts/hello.sh      # run the demo
 
-tmux demo
 Git workflow used
 
 Feature branch via git switch -c
@@ -26,6 +25,6 @@ Open PR (GitHub UI or gh pr create) and merge into main
 
 Proof artifacts
 
-Closed PRs:
-Screenshot:
-images/tmux-demo.png
+Closed PRs: #FILL_ME, #FILL_ME <!-- paste your real PR links or numbers -->
+
+Screenshot: images/tmux-demo.png
