@@ -7,7 +7,7 @@ Linux + Git
 Used dotfiles, tmux split panel, SSH secured connection to GitHub, branching & PR.
 - `~/.tmux.conf`
 - `scripts/hello.sh` (system info get)
-- `cad .gitignore`
+- `.gitignore`
 - This README
 
 ## How to run
